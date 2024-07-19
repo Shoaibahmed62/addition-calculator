@@ -1,2 +1,2 @@
-# simple-calculator
+# addition-calculator
 This is simple-calculator code.
